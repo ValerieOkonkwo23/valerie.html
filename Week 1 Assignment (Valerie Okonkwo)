@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>About Me Page</title>
+    </head>
+    <body>
+        <h1> Valerie Okonkwo </h1>
+        <h2> Processing Officer </h2>
+        <div class="img"></div>
+           <img src="images/about me image .jpeg" alt="Photograph Of Me">
+        <div>
+            <p>
+                My name is Valerie Okonkwo. I am 24 years old and I'm a processing officer at Dominican International Consultant LTD.
+            </p>
+
+            <h4> Facts About Me </h4>
+            <ol type="i">
+                <li> I have a twin brother </li>
+                <li> I have 3 junior sisters </li>
+                <li> I have loving parents </li>
+                <li> My favorite color is purple </li>
+                <li> My best friends are Jessica, Ifeoma and Iwinosa</li>
+            </ol>
+        </div>
+    </body>
+</html>
